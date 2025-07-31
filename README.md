@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devisha Kumari
 
-**Business Analyst **
+*Business Analyst *
 
 I'm a dynamic Business Analyst with a strong background in Human Resources and recent specialization in Business Analytics. With hands-on experience in SQL, Python, Power BI, and Excel, I turn data into insights and strategies that drive measurable value.
 
