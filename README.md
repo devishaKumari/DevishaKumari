@@ -16,20 +16,6 @@ I'm a dynamic Business Analyst with a strong background in Human Resources and r
 
 ---
 
-## 🔨 Projects
-
-### 🛒 [Sales Conversion & Marketing Funnel Analysis](https://github.com/devishaKumari/Sales_Conversion_Marketing_Funnel_Analysis)
-- Analyzed marketing campaigns to understand customer behavior and improve conversion rates.
-- Used Python for EDA and SQL for querying marketing databases.
-- Delivered actionable insights to optimize sales funnels.
-
-### 🏥 [Hospital Insights & Patient Analytics](https://github.com/devishaKumari/HealthData_IQ_Hospital_Insights_Patient_Analytics)
-- Automated data processing for hospital datasets using Python.
-- Wrote SQL queries for relational data extraction.
-- Contributed to validation, visualization, and reporting modules.
-
----
-
 ## 🚀 Technical Skills
 
 - **Languages & Tools:** SQL, Python, Power BI, Excel, Git
